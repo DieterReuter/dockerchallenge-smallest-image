@@ -17,3 +17,10 @@ $ docker image ls dieterreuter/hello:latest
 REPOSITORY           TAG                 IMAGE ID            CREATED             SIZE
 dieterreuter/hello   latest              a9e5647fae1d        25 hours ago        452 B
 ```
+
+## Useful links and further informations
+
+* [A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux](http://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
+
+
+2016, Dieter Reuter
