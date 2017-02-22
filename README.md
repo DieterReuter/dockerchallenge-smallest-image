@@ -3,6 +3,8 @@
 
 This repo is meant to be build on a Raspberry Pi using Raspbian/Jessie or HypriotOS v1.2.x
 
+More details can be found on the blog post [Let's build the smallest possible Docker image](https://blog.hypriot.com/post/build-smallest-possible-docker-image/).
+
 
 ## Build the Docker image
 ```
